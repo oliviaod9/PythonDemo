@@ -1,0 +1,16 @@
+from random import randint
+
+create a list of play options
+
+assign a random play to the computer
+
+set player to false
+
+while player is false
+    read player input
+    compare player input to computer to determine winner
+    print who won
+
+
+set player to false
+assign computer random play
